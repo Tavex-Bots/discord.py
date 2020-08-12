@@ -1,5 +1,6 @@
 discord.py
 ==========
+Discord.py is the main api framework used in tavex bots
 
 .. image:: https://discord.com/api/guilds/336642139381301249/embed.png
    :target: https://discord.gg/r3sSKJJ
